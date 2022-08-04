@@ -1,2 +1,1 @@
-# Frontend-Web-jQuery-React.js-JavaScript-HTML-CSS-React.js-Clones
-Frontend-Web-jQuery-React.js-JavaScript-HTML-CSS-React.js-Clones
+# Building Web Applications with React.js- Airbnb, Covid-19, Tracker, Deliveroo, Discord, Disney, Gmail, Instagram, LinkedIn, Netflix, NFT-Marketplace, Pinterest, Razorpay, Signal, Slack, Spotify, Starbucks, Tesla, Tiktok, Tinder, Uber, Uber-Eats, WhatsApp, YouTube, Zoom
