@@ -1,1 +1,1 @@
-# Building Web Applications with React.js- Airbnb, Covid-19, Tracker, Deliveroo, Discord, Disney, Gmail, Instagram, LinkedIn, Netflix, NFT-Marketplace, Pinterest, Razorpay, Signal, Slack, Spotify, Starbucks, Tesla, Tiktok, Tinder, Uber, Uber-Eats, WhatsApp, YouTube, Zoom
+## React.js Self Project Amazon
